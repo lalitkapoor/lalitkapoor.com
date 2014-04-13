@@ -1,0 +1,24 @@
+{
+  "name": "lalitkapoor.com",
+  "version": "0.0.0",
+  "description": "lalitkapoor.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lalitkapoor/lalitkapoor.com.git"
+  },
+  "author": "Lalit Kapoor <lalitkapoor@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/lalitkapoor/lalitkapoor.com/issues"
+  },
+  "homepage": "https://github.com/lalitkapoor/lalitkapoor.com",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "express": "~4.0.0"
+  }
+}
